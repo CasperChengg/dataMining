@@ -1,0 +1,1 @@
+void quickSort(float* x, int front, int rear);
